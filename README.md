@@ -1,2 +1,2 @@
 # College-Website
-Mo
+Model of a typical college website. 
